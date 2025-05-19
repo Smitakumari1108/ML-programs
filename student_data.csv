@@ -1,0 +1,11 @@
+StuEnroll,UniversityCode,UniversityName,CollegeID,CollegeName,CourseID,CourseName,AdminYear,Substream,PUPresent,Obtained
+U0001,B101,Bangalore University,C0001101,Oxford,1101,BCA,2021,CS,90,80
+U0002,B102,Bangalore University,C0002102,Christ,2102,B.SC,2022,CS,85,70
+U0003,B103,Bangalore University,C0003103,AMC,3103,MCA,2020,CA,90,85
+U0004,B104,Bangalore University,C0004104,Dayanandha,4104,BCA,2021,CA,95,92
+U0005,B105,Bangalore University,C0005105,SFS,5105,B.SC,2020,CS,90,85
+U0006,B106,Bangalore University,C0006106,T.John,1101,BCA,2021,CS,90,80
+U0007,B107,Bangalore University,C0007107,Christ,2102,B.SC,2022,CS,85,70
+U0008,B108,Bangalore University,C0008108,Oxford,3103,MCA,2020,CA,90,85
+U0009,B109,Bangalore University,C0009109,Dayanandha,4104,BCA,2021,CA,95,92
+U0010,B110,Bangalore University,C0010110,SFS,5105,B.SC,2020,CS,90,85
